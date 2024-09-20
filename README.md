@@ -7,21 +7,21 @@ Future enhancements include upgrading to more advanced hashing algorithms, integ
 ![WhatsApp Image 2024-09-20 at 12 35 49 PM](https://github.com/user-attachments/assets/3379d8e7-24da-4ea2-8450-040d6078e41f)
 
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/ed2d7a03-4274-4484-8fdf-a78f38fd50a4">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/ed2d7a03-4274-4484-8fdf-a78f38fd50a4">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/9c9f4bad-1a13-4db6-94fd-e24deb26b373">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/9c9f4bad-1a13-4db6-94fd-e24deb26b373">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/5d2a7d60-d88d-4366-9aa8-29cc9e5ec82a">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/5d2a7d60-d88d-4366-9aa8-29cc9e5ec82a">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/78c3d2f7-fb03-4e4a-b2f3-11e7e98aadc3">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/78c3d2f7-fb03-4e4a-b2f3-11e7e98aadc3">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/48f2a717-f8ec-4c4a-9297-484aeb1f5ca7">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/48f2a717-f8ec-4c4a-9297-484aeb1f5ca7">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/2b90e28d-3bda-4b17-952e-4b8bfa68c8ba">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/2b90e28d-3bda-4b17-952e-4b8bfa68c8ba">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/07abe5b5-9a9e-457d-b033-83d3554c6dce">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/07abe5b5-9a9e-457d-b033-83d3554c6dce">
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/d4283805-856f-4dbf-998a-4bcbeb302bab">
+<img width="725" alt="image" src="https://github.com/user-attachments/assets/d4283805-856f-4dbf-998a-4bcbeb302bab">
 
 
 
